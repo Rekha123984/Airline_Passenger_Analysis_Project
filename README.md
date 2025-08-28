@@ -113,3 +113,55 @@ DIVIDE(
     CALCULATE([Total Passengers], DATEADD(Airline_Dataset[Date], -1, MONTH))
 )
 # Airline_Passenger_Analysis_Project
+
+---
+
+## 📊 Final Outcome  
+- Delivered a **clean, structured dataset** ready for analysis (98,000+ rows).  
+- Built a complete **SQL + Python + Power BI pipeline** for analysis and visualization.  
+- Produced an interactive **dashboard** highlighting passenger demographics, travel seasonality, and flight punctuality.  
+
+---
+
+## 🚀 How This Project Stands Out  
+- **End-to-End Workflow** → Excel (cleaning) → Python (EDA + stats) → SQL (queries) → Power BI (dashboard).  
+- **Business-Oriented Insights** → identified peak travel seasons, reliability issues, and key passenger segments.  
+- **Statistical Validation** → used **T-Test & Chi-Square** to test assumptions.  
+- **Scalable & Practical** → approach can be applied to real-world airline data.  
+
+---
+
+## ⚙️ How to Run This Project  
+
+### 1. Dataset  
+- File: `Cleaned Airline Dataset.csv`  
+- Already preprocessed (duplicates removed, unicode fixed, new date columns added).  
+
+### 2. Python Analysis  
+- File: `Airline_Python_Analysis.ipynb`  
+- Open in **Jupyter Notebook / Google Colab**.  
+- Run cells step by step to:  
+  - Clean unicode characters  
+  - Perform exploratory data analysis (EDA)  
+  - Run hypothesis testing (T-Test & Chi-Square)  
+  - Export cleaned dataset  
+
+### 3. SQL Analysis  
+- File: `Airline_Dataset_Project.sql`  
+- Import the cleaned dataset into **SQL Server / MySQL**.  
+- Run the queries to:  
+  - Get total passengers, top countries, seasonal trends  
+  - Analyze age categories, cancellations, on-time flights  
+  - Generate insights for dashboards  
+
+### 4. Power BI Dashboard  
+- File: `Airline Passenger Analysis Dashboard.pbix`  
+- Open in **Power BI Desktop**.  
+- Dashboard includes:  
+  - KPIs (Total Passengers, Avg Age, On-Time %)  
+  - Charts (Age distribution, Flight Status, Top countries, Seasonality, Maps)  
+  - Filters for Nationality, Gender, Departure Month  
+ 
+
+---
+
