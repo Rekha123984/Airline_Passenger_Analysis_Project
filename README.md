@@ -88,7 +88,7 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
     - Map of passenger distribution by country  
     - Nationality-wise on-time flights  
 
-📸 *<img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/d7893e3d-ef2e-45c7-ac2b-d965497e8744" />*  
+📸 *<img width="1324" height="741" alt="image" src="https://github.com/user-attachments/assets/7d4c7d1b-b2c7-46ea-bf4c-a5e9b3566d6c" />*  
 
 🔑 **Insights from Dashboard**:  
 - **China** contributes the largest share of passengers (~37%).  
