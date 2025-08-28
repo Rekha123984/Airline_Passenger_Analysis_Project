@@ -29,7 +29,8 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
   - **T-Test** → to compare group means.  
   - **Chi-Square Test** → to check relationship between categorical variables.  
 
-📸 *[Insert Screenshot: Python EDA/Charts here]*  
+📸 *<img width="1004" height="497" alt="image" src="https://github.com/user-attachments/assets/b4702ac6-eb2e-4fb3-9e20-1621a83589e0" />
+*  
 
 ---
 
