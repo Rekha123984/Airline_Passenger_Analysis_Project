@@ -88,7 +88,7 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
     - Map of passenger distribution by country  
     - Nationality-wise on-time flights  
 
-📸 *[Insert Screenshot: Final Power BI Dashboard]*  
+📸 *<img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/d7893e3d-ef2e-45c7-ac2b-d965497e8744" />*  
 
 🔑 **Insights from Dashboard**:  
 - **China** contributes the largest share of passengers (~37%).  
