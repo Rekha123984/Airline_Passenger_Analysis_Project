@@ -100,6 +100,8 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
 ---
 
 ## 🔹 DAX Measures Used  
+## 🔹 DAX Measures Used  
+
 ```DAX
 Total Passengers = COUNTROWS(Airline_Dataset)
 
@@ -112,6 +114,7 @@ DIVIDE(
     [Total Passengers] - CALCULATE([Total Passengers], DATEADD(Airline_Dataset[Date], -1, MONTH)),
     CALCULATE([Total Passengers], DATEADD(Airline_Dataset[Date], -1, MONTH))
 )
+
 # Airline_Passenger_Analysis_Project
 
 ---
