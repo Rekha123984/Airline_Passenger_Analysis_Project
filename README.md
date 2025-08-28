@@ -88,6 +88,7 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
     - Map of passenger distribution by country  
     - Nationality-wise on-time flights  
 
+
 📸 *<img width="1324" height="741" alt="image" src="https://github.com/user-attachments/assets/7d4c7d1b-b2c7-46ea-bf4c-a5e9b3566d6c" />*  
 
 🔑 **Insights from Dashboard**:  
@@ -99,25 +100,7 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
 
 ---
 
-## 🔹 DAX Measures Used  
-## 🔹 DAX Measures Used  
 
-```DAX
-Total Passengers = COUNTROWS(Airline_Dataset)
-
-Avg Ticket Price = AVERAGE(Airline_Dataset[TicketPrice])
-
-Total Revenue = SUM(Airline_Dataset[TicketPrice])
-
-Passenger Growth % =
-DIVIDE(
-    [Total Passengers] - CALCULATE([Total Passengers], DATEADD(Airline_Dataset[Date], -1, MONTH)),
-    CALCULATE([Total Passengers], DATEADD(Airline_Dataset[Date], -1, MONTH))
-)
-
-# Airline_Passenger_Analysis_Project
-
----
 
 ## 📊 Final Outcome  
 - Delivered a **clean, structured dataset** ready for analysis (98,000+ rows).  
