@@ -20,6 +20,8 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
 - Dataset had **unicode characters** → cleaned using Python.  
 - Removed duplicates, corrected data types, and created new time-based columns (`Month_Name`, `Week_of_Month`).  
 - Final cleaned dataset exported to CSV & SQL Server.  
+*<img width="1004" height="497" alt="image" src="https://github.com/user-attachments/assets/8dbcf3a4-1211-48eb-8553-243788d4bd26" />*
+
 
 ### 2. Python Analysis  
 - Normalized text (removed unicode issues).  
@@ -29,8 +31,23 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
   - **T-Test** → to compare group means.  
   - **Chi-Square Test** → to check relationship between categorical variables.  
 
-📸 *<img width="1004" height="497" alt="image" src="https://github.com/user-attachments/assets/b4702ac6-eb2e-4fb3-9e20-1621a83589e0" />
-*  
+📸 *<img width="1287" height="295" alt="image" src="https://github.com/user-attachments/assets/6b515cda-d6e5-4588-9e5a-fcaff340b7de" />*  
+*<img width="1038" height="426" alt="image" src="https://github.com/user-attachments/assets/1fad1df0-ce33-4172-91df-bfd4cfc267e8" />*
+*<img width="1087" height="686" alt="image" src="https://github.com/user-attachments/assets/2f903254-0754-45bd-a66c-e85e9523032a" />*
+*<img width="842" height="477" alt="image" src="https://github.com/user-attachments/assets/14c756c3-301d-4a90-8c3c-7920bc01f5e6" />*
+*<img width="1085" height="782" alt="image" src="https://github.com/user-attachments/assets/2b8c8035-05c4-45bf-a7bb-03f5afe0d3f3" />*
+*<img width="1780" height="463" alt="image" src="https://github.com/user-attachments/assets/1be6f2e6-b63b-4cee-9766-2220ae7ddebe" />*
+*<img width="1781" height="117" alt="image" src="https://github.com/user-attachments/assets/999624c0-044c-4693-8507-ab2e5c1d5a59" />*
+*<img width="1776" height="458" alt="image" src="https://github.com/user-attachments/assets/022ae533-26fa-4f41-ab56-c54ac1f10ff0" />*
+*<img width="1783" height="128" alt="image" src="https://github.com/user-attachments/assets/7aa5e3cf-132a-43ee-af8a-dfeeb43260d8" />*
+
+
+
+
+
+
+
+
 
 ---
 
