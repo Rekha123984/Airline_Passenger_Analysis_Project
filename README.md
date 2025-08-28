@@ -62,7 +62,11 @@ The goal is to perform **data cleaning, analysis, statistical testing, and visua
   - Senior passengers in Asia (80+ years old)  
   - Top 5 Nationalities for On-Time flights  
 
-📸 *[Insert Screenshot: Example SQL query + result]*  
+📸 *<img width="1458" height="520" alt="image" src="https://github.com/user-attachments/assets/3ec03f06-1ad3-40c5-b6ec-b7a9c2cd8a24" />*
+*<img width="261" height="168" alt="image" src="https://github.com/user-attachments/assets/45fa14fc-45f5-4dc2-b063-4b1506a02537" />*
+*<img width="1202" height="523" alt="image" src="https://github.com/user-attachments/assets/4a4d3030-339b-49e7-abd3-1105096ff7af" />*
+
+ 
 
 🔑 **Key Findings from SQL**:  
 - Adults & Seniors dominate travel (>70%).  
